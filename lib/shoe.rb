@@ -7,7 +7,11 @@ class Shoe
   
   def cobble
   @condition = "new"
+<<<<<<< HEAD
     puts "Your shoe is as good as new!"
+=======
+    puts "your shoe is as good as new!"
+>>>>>>> 00b99d4134646d8c6c4221aa9524315ad6d36171
   end
 end
 
